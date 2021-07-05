@@ -1,4 +1,4 @@
-import { LatLong, parseLatLong } from "./latlog";
+import { LatLong, parseLatLong } from "./latlong";
 
 export interface Runway {
     facilityNumber: string;

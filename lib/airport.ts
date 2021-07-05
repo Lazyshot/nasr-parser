@@ -1,6 +1,6 @@
 import { createReadStream } from 'fs';
 import { createInterface } from 'readline';
-import { LatLong, parseLatLong } from './latlog';
+import { LatLong, parseLatLong } from './latlong';
 import { parseRunwayLine, Runway } from './runway';
 
 export interface Airport {
